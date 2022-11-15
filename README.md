@@ -3,7 +3,7 @@
 Steps to create cluster in GUI:
 -------------------------------
 
-Navigation menu -> Kubernetes Engine -> Clusters -> Create -> Select Auto Pilot (Recommended) -> Give Name & Region ->
+Navigation menu -> Kubernetes Engine -> Clusters -> Create -> Select Auto Pilot (Recommended) -> Give Name & Region
 -> Select Public Cluster ->  Create
 
 
