@@ -1,15 +1,15 @@
 # gke
 
-Steps to create cluster in GUI:
--------------------------------
+Create cluster using GUI:
+-------------------------
 
 Navigation menu -> Kubernetes Engine -> Clusters -> Create -> Select Auto Pilot (Recommended) -> Give Name & Region
 -> Select Public Cluster ->  Create
 
 
 
-Commands to create cluster using gcloud CLI:
------------------------------------------
+Create cluster using gcloud CLI:
+-------------------------------
 
 gcloud projects list
 
